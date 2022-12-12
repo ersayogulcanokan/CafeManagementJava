@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pkg201835013_cafeproject","l":"Items"},{"p":"pkg201835013_cafeproject","l":"Login"},{"p":"pkg201835013_cafeproject","l":"Main"},{"p":"pkg201835013_cafeproject","l":"Selling"},{"p":"pkg201835013_cafeproject","l":"ViewSells"}];updateSearchResults();
